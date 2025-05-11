@@ -26,7 +26,7 @@ This **Hospital Management System (HMS)** is designed to manage hospital process
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/hms.git
+    git clone https://github.com/Sateesh939852/
     cd hms
     ```
 
