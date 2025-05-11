@@ -3,7 +3,7 @@ from tkinter import *
 #import mysql.connector as sqlcon
 import random as rd
 
-'''con=sqlcon.connect(host="localhost",user="root",password="Prasad@123")#connection to mysql
+'''con=sqlcon.connect(host="localhost",user="root",password="you can use your password")#connection to mysql
 cur=con.cursor()
 cur = con.cursor(buffered=True)
 if (con):
